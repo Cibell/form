@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://unpkg.com/feather-icons"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <title>Formulário</title>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Creat Account</h1>
+        </header>
+
+        <form>
+
+            <label for="nome" class="username">Username
+                <input id="input-name" placeholder="Digite o seu nome" type="text" name="nome" required>
+                <i id="icon-check1" class="icon" data-feather="check-circle"></i>
+                <i id="icon-alert1" class="icon-alert" data-feather="alert-circle"></i>
+            </label>
+
+            <label for="email">Email
+                <input id="input-email" placeholder="Digite o seu email" type="email" name="email" required>
+                <i id="icon-check2" class="icon" data-feather="check-circle"></i>
+                <i id="icon-alert2" class="icon-alert" data-feather="alert-circle"></i>
+            </label>
+
+            <label for="password">Password
+                <input id="input-password" placeholder="Digite a sua senha" type="password" name="password" maxlength="8" required>
+                <i id="icon-check3" class="icon" data-feather="check-circle"></i>
+                <i id="icon-alert3" class="icon-alert" data-feather="alert-circle"></i>
+            </label>
+
+            <label for="password">Password check
+                <input id="input-password2" placeholder="Repita a senha" type="password" name="password" maxlength="8" required>
+                <i id="icon-check4" class="icon" data-feather="check-circle"></i>
+                <i id="icon-alert4" class="icon-alert" data-feather="alert-circle"></i>
+                <p id="paragraph"></p>
+            </label>
+        
+
+            <button type="submit" id="button-submit">Submit</button>
+        </form>
+    </div>
+
+    <script>
+        feather.replace()
+    </script>
+
+</body>
+
+<script src="./script.js"></script>
+
+</html>
