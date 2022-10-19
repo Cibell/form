@@ -1,10 +1,10 @@
 # :triangular_flag_on_post: Projeto - Formulário
-Para ver o projeto ao vivo, [Clique aqui]( https://cibell.github.io/form/)
-![projeto preview]()
+Para ver o projeto ao vivo, [Clique aqui]( https://cibell.github.io/form/) <br>
+![projeto preview](https://github.com/Cibell/form/blob/master/assetes/form.png?raw=true)
 
 # :speech_balloon: Sobre
 
-
+Projeto realizado utilizando HTML, CSS e JavaScript, o maior desafio foi fazer a verificaçaõ dos campos e adicionar icon referente a validação.
 
 ### Pré-requisitos"
 
