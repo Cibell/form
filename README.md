@@ -8,20 +8,23 @@ Projeto realizado utilizando HTML, CSS e JavaScript, o maior desafio foi fazer a
 
 ### Pré-requisitos"
 
-Utilizei como ferramenta o [VSCode](https://code.visualstudio.com/), instalei as seguintes tecnologias: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) no computador.
+Antes de iniciar você precisar ter o [VSCode](https://code.visualstudio.com/), [Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/) instalado no computador.
 
 
 # :computer: Tecnologias
 
- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+## :checkered_flag: Iniciando ##
 
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![image](https://camo.githubusercontent.com/194ae9b0be9bfd4caedab16de320d3987f4c144112461590a206262d21eb769b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343)
-
-
+```bash
+# Clone this project
+$ git clone https://github.com/Cibell/form.git
+# Access
+$ No arquivo Html, clicar com botão direito do mouse e vai liver server
+```
 
 
 # :closed_book: Licença
